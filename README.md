@@ -1,3 +1,4 @@
+![logo](https://github.com/chiragpandey15/chiragpandey15/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Chirag Pandey</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
